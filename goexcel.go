@@ -32,7 +32,7 @@ func getCurrentDirectory() string {
 	if err != nil {
 		fmt.Println(err)
 	}
-	return dir //strings.Replace(dir, "\\", "/", -1)
+	return dir //strings.Replace(dir, "\\", "/", -1) d
 }
 
 func mkdir(xdir string) {
