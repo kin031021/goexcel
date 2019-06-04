@@ -1,0 +1,4 @@
+github.com/aswjh/excel v0.0.0-20190302031512-353c59e41f09 h1:Zt0cluCgJ6RCs5aKTFCTFdLAkxLr684ZsNLgWvpWBAA=
+github.com/aswjh/excel v0.0.0-20190302031512-353c59e41f09/go.mod h1:WgVkGxGrxwo39LVEpCQRf4hZlKcl98cI9rpjEsZFyWg=
+github.com/go-ole/go-ole v1.2.4 h1:nNBDSCOigTSiarFpYE9J/KtEA1IOW4CNeqT9TQDqCxI=
+github.com/go-ole/go-ole v1.2.4/go.mod h1:XCwSNxSkXRo4vlyPy93sltvi/qJq0jqQhjqQNIwKuxM=
